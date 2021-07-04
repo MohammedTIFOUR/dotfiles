@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = medtifour@gmail.com
+	name = Mohammed Tifour
